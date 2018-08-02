@@ -1,0 +1,18 @@
+// Tell the user stuff about ourself.
+
+! version = 2.0
+
+! local concat = newline
+
++ [kt] 보안 필수 프로그램 [*]
+- http://helpit.kt.com > 필수 보안 S/W 접속하여 설치 합니다. 필수 보안 S/W는 DLP,DRM,V3,APCagent,Privacy-I 등 입니다.
+
++ [kt] (무선 lan|무선랜) 설정 [*]
+- SSID_KT 프로필을 설정해야 합니다.http://helpit.kt.com > PC OA > 네트워크 설정 > 495번 무선 네트워크 설정 방법을 확인 합니다.
+
++ dlp [*] 자동 로그아웃 [*]
+- DRM, V3, APC, TCO, WPM이 모두 설치되어 있고, DRM이 로그인 되어있어야 정상 사용 가능합니다.
+^하나라도 미 설치 시 보안기능으로 인해 DLP 자동 로그아웃이 됩니다.
+^만약 보안프로그램을 모두 설치하였는데도 불구 하고 DLP가 자동로그아웃이 될 경우에는 DLP 트레이아이콘에서 옵션 중 0분 후 자동 로그아웃으로 변경 하신 후 정상 사용이 가능합니다.
+
+
